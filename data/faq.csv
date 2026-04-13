@@ -1,0 +1,7 @@
+faq_id,title,content
+1,WiFi troubleshooting,"If a device disconnects from WiFi, first confirm signal strength, then reboot the router, and finally re-run device network setup."
+2,Battery troubleshooting,"If battery drains too quickly, check firmware version, reduce reporting frequency, and inspect temperature conditions."
+3,Gateway setup help,"If gateway setup fails at step 3, perform a factory reset and verify that the activation code was entered correctly."
+4,Firmware update help,"If firmware update stalls, keep the device powered, wait 10 minutes, then retry from the admin dashboard."
+5,Calibration basics,"Calibration instructions can be found in the setup guide. Recalibrate after major environmental changes."
+6,Dashboard interpretation,"If live data appears missing, confirm the device is reporting successfully and verify dashboard time filters."

@@ -1,0 +1,13 @@
+ticket_id,created_at,product,priority,status,issue_type,customer_message
+1,2026-04-01,Sensor A,High,Open,Connectivity,"Device keeps disconnecting from WiFi every few hours."
+2,2026-04-01,Sensor B,Medium,Closed,Battery,"Battery drains much faster than expected."
+3,2026-04-02,Gateway X,High,Open,Setup,"Initial setup fails at step 3 with an unknown error."
+4,2026-04-02,Sensor A,Low,Closed,Usage,"Need help understanding calibration instructions."
+5,2026-04-03,Gateway X,High,Open,Connectivity,"Gateway goes offline after router restart."
+6,2026-04-03,Sensor C,Medium,Open,Firmware,"Firmware update hangs at 80 percent."
+7,2026-04-04,Sensor B,Low,Closed,Billing,"Invoice seems to include the wrong subscription tier."
+8,2026-04-04,Sensor A,Medium,Open,Connectivity,"App shows device online but live data is missing."
+9,2026-04-05,Gateway X,High,Closed,Setup,"Resolved after factory reset and reconfiguration."
+10,2026-04-05,Sensor C,Medium,Open,Usage,"Dashboard values are difficult to interpret."
+11,2026-04-06,Sensor A,High,Open,Connectivity,"Frequent signal drops during business hours."
+12,2026-04-06,Sensor B,Medium,Closed,Firmware,"Update completed after retry."
